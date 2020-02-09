@@ -1,0 +1,413 @@
+1
+1023
+2401
+8
+201830
+Christine Laurendeau
+1405
+3
+201730
+Robert Collier
+1406
+5
+201810
+Mark Lanthier
+1805
+-1
+201810
+Robert Collier
+2402
+0
+201910
+Pat Morin
+0
+1
+1024
+1405
+0
+201730
+Robert Collier
+1405
+7
+201810
+Andrew Runka
+1805
+0
+201830
+Jason Hinek
+1406
+10
+201830
+Jason Hinek
+2404
+-1
+201910
+Doron Nussbaum
+0
+1
+1032
+1405
+9
+201730
+Robert Collier
+1406
+11
+201810
+Mark Lanthier
+2406
+12
+201830
+LD Nel
+1805
+4
+201810
+Jason Hinek
+2402
+7
+201830
+Pat Morin
+2401
+6
+201830
+Doron Nussbaum
+2404
+5
+201910
+Christine Laurendeau
+0
+1
+1034
+1406
+9
+201710
+Mark Lanthier
+2401
+10
+201730
+Doron Nussbaum
+2404
+5
+201810
+Christine Laurendeau
+2804
+2
+201810
+Michiel Smid
+1405
+7
+201630
+Andrew Runka
+0
+1
+1041
+1406
+0
+201830
+Jason Hinek
+1405
+5
+201820
+Robert Collier
+2404
+3
+201910
+Christine Laurendeau
+2401
+1
+201910
+Mark Lanthier
+2402
+-1
+201910
+Pat Morin
+0
+1
+1044
+1405
+12
+201530
+Robert Collier
+1406
+8
+201610
+Mark Lanthier
+3004
+-1
+201730
+JP Corriveau
+1805
+7
+201610
+Robert Collier
+2406
+1
+201630
+LD Nel
+0
+1
+1048
+2404
+8
+201410
+Doron Nussbaum
+1406
+12
+201310
+Jason Hinek
+1805
+3
+201230
+Jason Hinek
+1405
+4
+201230
+Andrew Runka
+2406
+2
+201430
+LD Nel
+0
+1
+1053
+3004
+12
+201330
+Christine Laurendeau
+3000
+1
+201310
+Anil Somayaji
+1406
+10
+201020
+Mark Lanthier
+1405
+9
+201010
+Jason Hinek
+2804
+8
+201210
+Michiel Smid
+0
+1
+1055
+3004
+-1
+201610
+Christine Laurendeau
+3005
+2
+201610
+Lou Nel
+1405
+5
+201230
+Andrew Runka
+1805
+-1
+201230
+Robert Collier
+2401
+0
+201910
+Mark Lanthier
+2406
+1
+201430
+Lou Nel
+0
+1
+1057
+2804
+-1
+201830
+Michiel Smid
+1406
+7
+201810
+Mark Lanthier
+2402
+4
+202030
+Jason Hinek
+1405
+6
+201730
+Robert Collier
+2804
+8
+202010
+Michiel Smid
+0
+1
+1066
+1405
+10
+201530
+Andrew Runka
+1406
+8
+201610
+Mark Lanthier
+2401
+9
+201630
+Christine Laurendeau
+2404
+9
+201710
+Christine Laurendeau
+2402
+11
+201810
+Pat Morin
+0
+1
+1070
+1405
+2
+201430
+Robert Collier
+1805
+3
+201510
+Robert Collier
+2804
+1
+201610
+Michiel Smid
+2601
+4
+201630
+LD Nel
+2404
+2
+201710
+Christine Laurendeau
+0
+1
+1074
+2402
+8
+201910
+Pat Morin
+1005
+12
+201810
+Andrew Runka
+1406
+3
+201820
+Mark Lanthier
+2401
+10
+201830
+Mark Lanthier
+2404
+8
+201910
+Christine Laurendeau
+0
+1
+1085
+1405
+-1
+201130
+Robert Collier
+1805
+7
+201210
+Robert Collier
+2406
+8
+201230
+LD Nel
+3004
+0
+201310
+JP Corriveau
+1405
+9
+201210
+Robert Collier
+0
+1
+1089
+1405
+10
+201730
+Robert Collier
+1406
+-1
+201810
+Jason Hinek
+1805
+10
+201810
+Robert Collier
+1406
+9
+201820
+Mark Lanthier
+2402
+3
+201830
+Jason Hinek
+0
+1
+1091
+2401
+8
+201730
+Christine Laurendeau
+2404
+8
+201730
+Christine Laurendeau
+2402
+12
+201810
+Pat Morin
+3000
+5
+201830
+Anil Somayaji
+3004
+6
+201910
+Christine Laurendeau
+0
+1
+1099
+2804
+6
+201130
+Michiel Smid
+2601
+6
+201230
+LD Nel
+2404
+8
+201210
+Christine Laurendeau
+2401
+7
+201210
+Doron Nussbaum
+1805
+3
+201110
+Michiel Smid
+3007
+6
+201230
+Robert Collier
+3804
+0
+201230
+Anil Maheshwari
+0
+0
+0
